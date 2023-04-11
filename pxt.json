@@ -1,0 +1,22 @@
+{
+    "name": "Gesture",
+    "version": "0.0.1",
+    "description": "package for Gesture Sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/Gesture-strings.json",
+        "_locales/zh-cn/Gesture-jsdoc-strings.json",
+        "_locales/zh-tw/Gesture-strings.json",
+        "_locales/zh-tw/Gesture-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}

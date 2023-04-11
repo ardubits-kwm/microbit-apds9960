@@ -1,0 +1,21 @@
+{
+    "GESTURE_WORKMODE.LIGHT_MODE|block": "光线感知模式",
+    "GESTURE_WORKMODE.PROXIMITY_MODE|block": "距离感知模式",
+    "GESTURE_WORKMODE.GESTURE_MODE|block": "手势感知模式",
+    "YFGesture.enable_mode|block": "使能 %u",
+    "YFGesture.gesture|block": "读取手势",
+    "GESTURE_TYPE.UP|block": "向上",
+    "GESTURE_TYPE.DOWN|block": "向下",
+    "GESTURE_TYPE.LEFT|block": "向左",
+    "GESTURE_TYPE.RIGHT|block": "向右",
+    "GESTURE_TYPE.NEAR|block": "接近",
+    "GESTURE_TYPE.FAR|block": "远离",
+    "YFGesture.onGesture|block": "检测手势 %u",
+    "YFGesture.getGestureID|block": "获取手势值",
+    "YFGesture.ambientLight|block": "照明值 %u",
+    "YFGesture.redLight|block": "红色光线值",
+    "YFGesture.greenLight|block": "绿色光线值",
+    "YFGesture.blueLight|block": "蓝色光线值",
+    "YFGesture.proximity|block": "获取距离值",
+    "{id:category}YFGesture": "手势传感器"
+}

@@ -1,0 +1,12 @@
+{
+  "YFGesture.enable_mode": "手势传感器使能工作模式。",
+  "YFGesture.onGesture": "手势传感器检测挥手动作：上、下、左、右、接近、远离。",
+  "YFGesture.onGesture|param|u": "要检测的手势类型",
+  "YFGesture.gesture": "读取手势",
+  "YFGesture.getGestureID": "读取手势的值，没有手势：0;起来：1;右：2;下：3;左：4;近：5;远：6。",
+  "YFGesture.ambientLight": "光线照明值",
+  "YFGesture.redLight": "红色光线值",
+  "YFGesture.greenLight": "绿色光线值",
+  "YFGesture.blueLight": "蓝色光线值",
+  "YFGesture.proximity": "获取距离值"
+}

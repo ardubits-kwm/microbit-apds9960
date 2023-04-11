@@ -1,0 +1,12 @@
+{
+    "YFGesture.enable_mode": "手勢傳感器使能工作模式。",
+    "YFGesture.onGesture": "手勢傳感器檢測揮手動作：上、下、左、右、接近、遠離。",
+    "YFGesture.onGesture|param|u": "要檢測的手勢類型",
+    "YFGesture.gesture": "讀取手勢",
+    "YFGesture.getGestureID": "讀取手勢的值，沒有手勢：0;起來：1;右：2;下：3;左：4;近：5;遠：6。",
+    "YFGesture.ambientLight": "光線照明值",
+    "YFGesture.redLight": "紅色光線值",
+    "YFGesture.greenLight": "綠色光線值",
+    "YFGesture.blueLight": "藍色光線值",
+    "YFGesture.proximity": "獲取距離值"
+}
